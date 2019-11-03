@@ -1,0 +1,51 @@
+{
+  "responseId": "fb20dd61-face-4b7b-b5bb-972ce2de75d3-d5ae01f3",
+  "queryResult": {
+    "queryText": "recommend",
+    "parameters": {},
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "i would recommend this courses",
+    "fulfillmentMessages": [{
+        "text": {
+          "text": [
+            "i would recommend this courses"
+          ]
+        }
+      },
+      {
+        "payload": {
+          "cards": [{
+              "header": "Chatbots",
+              "link": "https://udemy.com/chatbots/",
+              "price": "$10.99",
+              "image": "https://miro.medium.com/max/4000/1*m9IJdAYW04MYh75ivpwUNA.png",
+              "description": "Chatbots for Facebook with Node.js and Dialogflow"
+            },
+            {
+              "header": "Chatbots",
+              "link": "https://udemy.com/chatbots/",
+              "price": "$10.99",
+              "image": "https://miro.medium.com/max/4000/1*m9IJdAYW04MYh75ivpwUNA.png",
+              "description": "Chatbots for Facebook with Node.js and Dialogflow"
+            },
+            {
+              "description": "Chatbots for Facebook with Node.js and Dialogflow",
+              "header": "Chatbots",
+              "link": "https://udemy.com/chatbots/",
+              "price": "$10.99",
+              "image": "https://miro.medium.com/max/4000/1*m9IJdAYW04MYh75ivpwUNA.png"
+            }
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/reactpageagent-gbxxng/agent/intents/d8b95618-0269-4b47-90c2-1e8454d6a279",
+      "displayName": "recommend courses"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en",
+    "ngrok": "1Pfs3mW5dLM59u4UFT1BqYz1frp_2TAzrQC6ayshU1cjAfuTy"
+
+  }
+}
